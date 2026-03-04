@@ -23,6 +23,8 @@ By the end, you will have:
 - a temporary GitHub Pages URL proving deployment works
 - optional addendums for Codex, Claude Code, and GitHub CLI auth if needed
 
+# Setup Check Completed
+
 ---
 
 ## Step 0: Start Here First (Required)
